@@ -1,0 +1,10 @@
+userid,placeid,datetime,lat,lon,city,category
+fred-wilson,tocqueville-new-york,2010-10-22T23:44:29,40.7363,-73.9922,New York,Food:American
+fred-wilson,wesleyan-university-usdan-university-center-middle,2010-10-23T17:00:24,41.556974,-72.657571,Middletown,College & Education:Student Center
+fred-wilson,javapalooza-middletown,2010-10-23T20:30:45,41.5588525,-72.6486184,Middletown,Food:Coffee Shop
+fred-wilson,giorgione-new-york,2010-10-24T00:22:49,40.726144,-74.008348,New York,Food:Italian
+fred-wilson,the-shala-new-york,2010-10-24T16:01:38,40.733075,-73.991478,New York,Home / Work / Other:Gym / Fitness:Yoga Studio
+fred-wilson,citarella-new-york,2010-10-24T19:20:18,40.7344,-73.999,New York,Shops:Food & Drink:Gourmet
+fred-wilson,jeffreys-grocery-and-luncheonette-new-york,2010-10-25T12:03:10,40.733994,-74.001374,New York,Food:American
+duygu,jacks-coffee-new-york,2010-10-25T12:08:06,40.7345781,-74.0006365,New York,Food:Coffee Shop
+fred-wilson,chelsea-piers-sports-center-new-york,2010-10-26T10:30:47,40.7469,-74.0082,New York,Parks & Outdoors:Skating Rink
